@@ -1,4 +1,20 @@
 ### Hi there 👋
+                                      
+My name is Fernando Teixeira. I work as a Senior QA Engineer at Zup Innovation.
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=teixeira-fernando&repo=teixeir>
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira-fe>
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=teixeira-fernando&co>
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=teixeira-fernan>
+
+
+
+<p><a href="https://github.com/teixeira-fernando" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fernando-augusto-teixeira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@teixeirafernando" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="fernandoadt1@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
+
+
 
 <!--
 **teixeira-fernando/teixeira-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
