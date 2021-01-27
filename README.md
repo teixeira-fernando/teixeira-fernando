@@ -2,13 +2,11 @@
                                       
 My name is Fernando Teixeira. I work as a Senior QA Engineer at Zup Innovation.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=teixeira-fernando&repo=teixeir>
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira-fe>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira-fernando>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=teixeira-fernando&co>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=teixeira-fernan>
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=teixeira-fernando>
 
 
 
