@@ -1,6 +1,6 @@
 ### Hi there 👋
                                       
-My name is Fernando Teixeira. I work as a Senior QA Engineer at Zup Innovation.
+My name is Fernando Teixeira. I work as a Senior Software Quality Engineer at Verivox.
 
 #### Find me around the web 🌎:
 
