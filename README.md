@@ -13,8 +13,9 @@ I live in Germany and currently work at Verivox.
 Here are my main projects:
 
 
-* (QA Strategy for microservices with Synchronous and Asynchronous communication)[https://github.com/teixeira-fernando/EcommerceApp]
-* (Baseline performance tests project using Locust, Docker-compose and Github-Actions)[https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust]
+* [QA Strategy for microservices with Synchronous and Asynchronous communication](https://github.com/teixeira-fernando/EcommerceApp)
+* [Baseline performance tests project using Locust, Docker-compose and Github-Actions](https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust)
+* [Rest Assured Architecture Setup](https://github.com/teixeira-fernando/restassured-framework-setup)
 
 <!--
 **teixeira-fernando/teixeira-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
