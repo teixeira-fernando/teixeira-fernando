@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Fernando 👋
                                       
-My name is Fernando Teixeira. I work as a Senior Software Quality Engineer at Verivox.
+I am a Senior QA Engineer with 5 years of experience developing test automation solutions and test strategies for different projects. Self-independent learner and I love to try out and learn new technologies. I'm currently learning German, and I love jogging and cycling in my free time.
+
+I live in Germany and currently work at Verivox.
 
 #### Find me around the web 🌎:
 
@@ -8,10 +10,11 @@ My name is Fernando Teixeira. I work as a Senior Software Quality Engineer at Ve
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira-fernando&layout=compact&count_private=true&hide=css,html)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=teixeira-fernando&show_icons=true&count_private=true&include_all_commits=true)
+Here are my main projects:
 
 
-
+* (QA Strategy for microservices with Synchronous and Asynchronous communication)[https://github.com/teixeira-fernando/EcommerceApp]
+* (Baseline performance tests project using Locust, Docker-compose and Github-Actions)[https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust]
 
 <!--
 **teixeira-fernando/teixeira-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
