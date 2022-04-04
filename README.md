@@ -10,10 +10,10 @@ I live in Germany and currently work at Verivox.
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira-fernando&layout=compact&count_private=true&hide=css,html)
 
-Here are my main projects:
+Take a look at my main projects:
 
 
-* [QA Strategy for microservices with Synchronous and Asynchronous communication](https://github.com/teixeira-fernando/EcommerceApp)
+* [QA Strategy for microservices with Synchronous and Asynchronous communication](https://github.com/teixeira-fernando/EcommerceApp)    
 * [Baseline performance tests project using Locust, Docker-compose and Github-Actions](https://github.com/teixeira-fernando/BaselinePerformanceTest-Locust)
 * [Rest Assured Architecture Setup](https://github.com/teixeira-fernando/restassured-framework-setup)
 
