@@ -1,6 +1,6 @@
 ### Hi there, I'm Fernando 👋
                                       
-I am a Senior QA Engineer with more than 5 years of experience developing test automation solutions and test strategies for different projects. Self-independent learner and I love to try out and learn new technologies. I'm currently learning German, and I love jogging and cycling in my free time.
+I am a Senior QA Engineer with more than 6 years of experience developing test automation solutions and test strategies for different projects. Self-independent learner and I love to try out and learn new technologies. I'm currently learning German, and I love jogging and cycling in my free time.
 
 I live in Germany and currently work at Verivox.
 
