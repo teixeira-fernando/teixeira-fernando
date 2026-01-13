@@ -1,6 +1,6 @@
 ### Hi there, I'm Fernando 👋
 
-I am a Software Engineer in Test with more than 8 years of experience developing test automation solutions and test strategies for different projects. Over the course of my career, I developed expertise in designing and implementing robust test frameworks, optimizing test processes, and ensuring the seamless integration of automated testing into software development lifecycles.
+I am a Software Engineer in Test with more than 9 years of experience developing test automation solutions and test strategies for different projects. Over the course of my career, I developed expertise in designing and implementing robust test frameworks, optimizing test processes, and ensuring the seamless integration of automated testing into software development lifecycles.
 
 #### Find me around the web 🌎:
 
